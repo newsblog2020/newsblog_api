@@ -1,0 +1,147 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/ee0b423f47d672a5fa7f9e49d98cb70f.jpg",
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d0152648e5e5a8bd0c9de1b160d7edba.jpg",
+          "width": 506,
+          "height": 800
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/81ce3418330fb98c21e056d6e4705087.jpg",
+          "width": 1080,
+          "height": 2339
+        }
+      ],
+      "reference": "美国之音"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/ffb01c7fe6929671a9b967028426d1d4.jpg",
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/f7a40eec69fec42202f67e8c8960302b.jpg",
+          "width": 1024,
+          "height": 694
+        }
+      ],
+      "reference": "Twitter",
+      "label": [
+        {
+          "type": 3,
+          "text": "WHO"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d52bcd0790fd24bc0bc7ce19ba100d87.jpg",
+          "width": 2153,
+          "height": 638
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d8f70a3c00bcb884c48d18fb5324b90f.jpg",
+          "width": 384,
+          "height": 584
+        }
+      ],
+      "reference": "微信朋友圈"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/b3d2280762a2275fe1c8fe156c53b013.jpg",
+          "width": 641,
+          "height": 1389
+        }
+      ],
+      "reference": "微信朋友圈",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/a9f54ed1dfadb4cdd9eeba7e5291a372.png",
+          "width": 1242,
+          "height": 2208
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/43dc47d01cd0fc05a40ea67e9a0bde10.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "reference": "微博"
+    }
+  ],
+  "time": 1581071520318
+}

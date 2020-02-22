@@ -1,0 +1,170 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/978ae006b87403914c4d6c042ef6cfb7.jpg",
+          "width": 616,
+          "height": 768
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "日本"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/55cde727f81dd9164c82f03d1d824864.jpg",
+          "width": 1166,
+          "height": 946
+        }
+      ],
+      "reference": "美国之音",
+      "label": [
+        {
+          "type": 2,
+          "text": "埃及"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/4491ff1ebe37bedc50eee4176cfe140a.jpg",
+          "width": 703,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "西藏"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/5cc9a35dbac7ea7d3004bfc9381f276f.jpg",
+          "width": 1080,
+          "height": 1174
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/aeecf69a3a662336eeb4ae3e7cdb8fda.png",
+          "width": 444,
+          "height": 485
+        },
+        {
+          "url": "2/7fcf27039df3ec9e140f47ca4b9bd5d8.png",
+          "width": 591,
+          "height": 726
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d4b17e1a5a419c7e4f7c750fbe53b781.png",
+          "width": 425,
+          "height": 701
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/46d7b5089a8bda2ccd98df321f9f9f2a.jpg",
+          "width": 1080,
+          "height": 1130
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/07720a60f1ff9d7d816961917121fea3.jpg",
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "reference": "抖音",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/9f05f1ff7758b9e5072c9dae44d80bd2.jpg",
+          "width": 1070,
+          "height": 1610
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "朝鲜"
+        }
+      ]
+    }
+  ],
+  "time": 1581759060877
+}

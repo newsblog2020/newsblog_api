@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/8a4696b69086c256aa7fb31f9e9257f9.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "科普"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/3928b5a449f4d66add6197d78807418f.jpg",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "url": "2/5e99844b41ce3ee3d8aa0da6c82a60fa.jpg",
+          "width": 800,
+          "height": 1250
+        },
+        {
+          "url": "2/d8ae040029228945f4abe8cfe52d777f.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "reference": "今日头条",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/dacbd75e963fd849c1ba7de01d14c5e2.jpg",
+          "width": 370,
+          "height": 800
+        }
+      ],
+      "reference": "今日头条",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "上海"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/459b4d5a44aa495b033020d14995b458.jpg",
+          "width": 1060,
+          "height": 1630
+        },
+        {
+          "url": "2/0a9852c8658e554776d85c7b08437a6a.jpg",
+          "width": 1078,
+          "height": 1740
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/ffdb21a754bf1b52926dedd887f87f6f.jpg",
+          "width": 828,
+          "height": 1009
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    }
+  ],
+  "time": 1581257460306
+}

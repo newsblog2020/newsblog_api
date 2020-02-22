@@ -1,0 +1,140 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/e103b65efbbf6dc87f8246c3a16030e3.jpg",
+          "width": 1080,
+          "height": 1332
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/99c8e8e3c797be00f891c847ae241147.jpg",
+          "width": 750,
+          "height": 1334
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/683e5c6029958f44f2b333ebbe77a623.jpg",
+          "width": 600,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "小技巧"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/5236a819a4359f348c5b3ce30de5df23.jpg",
+          "width": 1174,
+          "height": 1484
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/c56db7c66ceccbc5271a44faa895df96.jpg",
+          "width": 800,
+          "height": 777
+        }
+      ],
+      "reference": "微信朋友圈",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d78df0772911d285ccbbc3c0d303b452.jpg",
+          "width": 750,
+          "height": 728
+        }
+      ],
+      "reference": "新浪财经"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/7692f81a4b214b1c391c25289bc3b9a1.jpg",
+          "width": 1080,
+          "height": 2340
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/4186cc407d9cbd7da3f2c80204f11e37.jpg",
+          "width": 794,
+          "height": 800
+        }
+      ],
+      "reference": "微信",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/a0b503ad91854d94ff46e6f800580957.png",
+          "width": 733,
+          "height": 434
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    }
+  ],
+  "time": 1581776220931
+}
