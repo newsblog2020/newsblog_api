@@ -1,0 +1,114 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/3d2f0b1bded09d183b889f92c2197b25.png",
+          "width": 1004,
+          "height": 889
+        },
+        {
+          "url": "2/c469717e987cfa2e2d520adbbbe72d6a.png",
+          "width": 838,
+          "height": 873
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "日本"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/4b4fd8a1bbbc4076591e30802df4b1bc.jpg",
+          "width": 1080,
+          "height": 2340
+        },
+        {
+          "url": "2/442cc2fdf59d484d4239efbb4d83ddae.jpg",
+          "width": 1080,
+          "height": 1319
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/30d3136a3e49b1695983d1ebc80a8628.jpg",
+          "width": 1080,
+          "height": 2454
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d3b4fb4f436a1c1655f275fe4cff8825.jpg",
+          "width": 502,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/d4937d5206124149a2206fe790a42939.jpg",
+          "width": 1080,
+          "height": 2400
+        }
+      ],
+      "reference": "百度贴吧",
+      "label": [
+        {
+          "type": 3,
+          "text": "小说"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/536db4b5e6dfcbc77f47fbe3f41efa25.jpg",
+          "width": 750,
+          "height": 1334
+        },
+        {
+          "url": "2/e6b6fdcaf8c0beede3153bac276a4d7c.jpg",
+          "width": 750,
+          "height": 1334
+        },
+        {
+          "url": "2/11597b31d78f0013d75255b4f03203b7.jpg",
+          "width": 705,
+          "height": 800
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    }
+  ],
+  "time": 1581867900798
+}
