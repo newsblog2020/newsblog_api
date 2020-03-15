@@ -1,8 +1,8 @@
 {
   "code": 0,
   "data": {
-    "version": 1,
-    "url": "123",
+    "version": 2,
+    "url": "https://raw.githubusercontent.com/yozo2020/newsblog_api/master/apk/app-debug.apk",
     "content": "1、增加了视频播放功能\n2、增加了分类筛选\n3、修改了视觉效果\n建议升级到最新版本",
     "isForce": false
   }
