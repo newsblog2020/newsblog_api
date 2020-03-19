@@ -1,0 +1,86 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/133c4e01bf84eaa923b6e86353b0c00a.jpg",
+          "width": 1080,
+          "height": 1230
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/fa545672b48cd3787bb45c96c67018ef.jpg",
+          "width": 580,
+          "height": 514
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/cba21abe7d177a31356d1594a8c108a7.jpg",
+          "width": 750,
+          "height": 1034
+        }
+      ],
+      "reference": "网易新闻"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/b376af927574ea6e7abb07bad5722d4a.jpg",
+          "width": 444,
+          "height": 960
+        }
+      ],
+      "reference": "今日头条"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/b06544bdecb6f1589760806430048f00.jpg",
+          "width": 748,
+          "height": 1242
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/f27a64e551b3768dd85726df90d5ac39.jpg",
+          "width": 1080,
+          "height": 2339
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "3/330a796e2892152ed1a418fff78c0854.jpg",
+          "width": 700,
+          "height": 9753
+        }
+      ]
+    }
+  ],
+  "time": 1583505480689
+}

@@ -1,0 +1,134 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/54e7d1ec00a099aad61c110afab67151.jpg",
+          "width": 671,
+          "height": 839
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "大连"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/f980c08c95a46c88b1e2449702c9456a.jpg",
+          "width": 538,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/65a5bbafe2dafa4c196c032ab76ca980.jpg",
+          "width": 720,
+          "height": 1440
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "3/69c9bb8ce0a4d0b1ba032cdc7f6514fe.jpg",
+          "width": 828,
+          "height": 1792
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/6ae9092a68217fd07028644582de3977.jpg",
+          "width": 720,
+          "height": 2207
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/67427016843909de26aad92fc455b529.jpg",
+          "width": 1000,
+          "height": 2182
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/aee832aa0a7d80f6518bacd7f93e36e0.jpg",
+          "width": 800,
+          "height": 208
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/a2ef88e1ee80aedede85a57888e0f334.jpg",
+          "width": 1080,
+          "height": 2336
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/f404628daa786bb2624bc9aff6766dad.jpg",
+          "width": 800,
+          "height": 576
+        },
+        {
+          "url": "3/46f6642c18fffb720d430644e29f0654.jpg",
+          "width": 828,
+          "height": 1792
+        },
+        {
+          "url": "3/07e538571d962e61ac49d35f9e83d285.jpg",
+          "width": 540,
+          "height": 1140
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "武汉"
+        }
+      ]
+    }
+  ],
+  "time": 1583678580812
+}

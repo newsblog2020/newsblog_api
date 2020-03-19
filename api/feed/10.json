@@ -1,0 +1,103 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/148b994ae389d333223555fdb1d711fa.jpg",
+          "width": 1080,
+          "height": 891
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "印度"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/42f62ee01b6219f76a92dcbc1651a4b1.jpg",
+          "width": 1080,
+          "height": 1342
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/8e1a95074169f680acb4de4f361b9f75.jpg",
+          "width": 730,
+          "height": 574
+        }
+      ],
+      "reference": "微信"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/5d46a25dae7505b01e4978251ca1d08d.jpg",
+          "width": 578,
+          "height": 1000
+        },
+        {
+          "url": "2/b3f774570f437496fb5fc0af2c838e12.jpg",
+          "width": 784,
+          "height": 674
+        },
+        {
+          "url": "2/fd0acd8b0694d3c6f50ff6627ceeff24.jpg",
+          "width": 1080,
+          "height": 1468
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "2/529b5f91f8c3507cabf5401a29d9f0d4.jpg",
+          "width": 990,
+          "height": 2974
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/4d1f8c6973407ddee9626c540c6d935a.png",
+          "width": 368,
+          "height": 725
+        }
+      ],
+      "reference": "twitter",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    }
+  ],
+  "time": 1582556460934
+}

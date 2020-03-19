@@ -1,0 +1,89 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/0d20d11a242beaaf05f77bf7b37d7aca.jpg",
+          "width": 1080,
+          "height": 1640
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/7ba75c9dda4a7bdd83978e76de26e803.jpg",
+          "width": 1080,
+          "height": 1196
+        },
+        {
+          "url": "2/13a31f576614338f81b8a76bb8faa967.jpg",
+          "width": 714,
+          "height": 464
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/e65dfae44d8a9dc93666a57860dbb855.jpg",
+          "width": 750,
+          "height": 1334
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/11e5c3161edffc50e6372f0f484a476f.jpg",
+          "width": 960,
+          "height": 1563
+        },
+        {
+          "url": "2/015153c3880e220db2429f719250c01e.jpg",
+          "width": 861,
+          "height": 1722
+        },
+        {
+          "url": "2/664a7492a8b9e7a351d9daf49d18fafa.jpg",
+          "width": 750,
+          "height": 1270
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "2/22a4deaca5a0cab459578b7070493760.jpg",
+          "width": 1080,
+          "height": 2339
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    }
+  ],
+  "time": 1582901460352
+}
