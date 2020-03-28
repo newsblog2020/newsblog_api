@@ -1,0 +1,142 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 2,
+      "text": "3月8日，巴菲特：我活了89岁，只见过一次美股熔断。\n3月9日，巴菲特：我活了89岁，只见过两次美股熔断。\n3月12日，巴菲特：我活了89岁，只见过三次美股熔断。\n3月16日，巴菲特：我太年轻了……",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/590759f081e15b6d09e8df33d489455d.png",
+          "width": 690,
+          "height": 917
+        },
+        {
+          "url": "3/f6b91f969bdf1427bc05fb24f0c36cf0.jpg",
+          "width": 446,
+          "height": 418
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "加拿大"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/848a8f616e3f86172ede41d291cb4414.png",
+          "width": 436,
+          "height": 794
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/f1621c03a6c885fdc3e4aafe671b2297.jpg",
+          "width": 800,
+          "height": 778
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "德国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/bfa06d245cf626498b11f6f2afb5c1ea.jpg",
+          "width": 1080,
+          "height": 1276
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/5bc6077a5a9ad8d3a8e57dcabbd72006.jpg",
+          "width": 720,
+          "height": 862
+        }
+      ],
+      "reference": "抖音"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/c6155222391af037bf51e95325e4a0b6.jpg",
+          "width": 449,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/b9d73d73734fc70b27c9130a41794c8c.jpg",
+          "width": 800,
+          "height": 449
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "伊朗"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/fc883f4b2738d0c49b6745696938bbe8.jpg",
+          "width": 750,
+          "height": 1334
+        }
+      ]
+    }
+  ],
+  "time": 1584370560616
+}

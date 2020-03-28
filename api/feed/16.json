@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/5f746771dbc0a792791bd7d96257193e.png",
+          "width": 802,
+          "height": 659
+        },
+        {
+          "url": "3/75ee570392adc3d5d27d9c7b9becc02b.jpg",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "url": "3/fb412965241e87c411d4f09a0bb734f0.jpg",
+          "width": 1440,
+          "height": 1080
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/89c3a10520155101f2abae719163192b.jpg",
+          "width": 1080,
+          "height": 2336
+        }
+      ],
+      "reference": "微信"
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "3/06c4e67a269a30c3b39268fe61500bba.png",
+          "width": 1077,
+          "height": 350
+        },
+        {
+          "url": "3/293b60d2f534cc33c41f57938f20cd71.png",
+          "width": 1139,
+          "height": 312
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "3/0a3c5f65ebd03ee434a8025889134c86.jpg",
+          "width": 800,
+          "height": 642
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "油价"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/58b20c45be541aa6050f768ad4cef892.jpg",
+          "width": 808,
+          "height": 1346
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 3,
+          "text": "华为手机"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "3/a4a77da05a2bd902bbc8c6f2ecf597da.jpg",
+          "width": 720,
+          "height": 4700
+        },
+        {
+          "url": "3/c1b6ea99e5ab20f23f72231d49716764.jpg",
+          "width": 720,
+          "height": 6227
+        },
+        {
+          "url": "3/bcefc04c5b3676f4867f420c3b784f7d.jpg",
+          "width": 720,
+          "height": 5028
+        },
+        {
+          "url": "3/2c35c31bfc27d09c4e36b124540ce88c.jpg",
+          "width": 720,
+          "height": 6598
+        }
+      ]
+    }
+  ],
+  "time": 1583853660961
+}
