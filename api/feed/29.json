@@ -1,0 +1,139 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/31151cc0ceec844e9af3e7b958a9ece2.jpg",
+          "width": 720,
+          "height": 1991
+        }
+      ],
+      "reference": "微信"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/c81fe7dda14df3de156e0765bb44aa68.jpg",
+          "width": 704,
+          "height": 680
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/42323012319ec7b13a567552a6b727bc.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "reference": "微信朋友圈"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/a8295b7377a1dd9bf4db89db180a5e3b.jpg",
+          "width": 450,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "泉州"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/55667fc0111d3ea1b288ccb92c72cf43.jpg",
+          "width": 443,
+          "height": 500
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/277481b7d8b148247efd5f0bdc27257e.jpg",
+          "width": 400,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/b52b28772abfc3b5d17d99d5725e5763.png",
+          "width": 800,
+          "height": 1612
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "3/a2c5a3fe6e59c0d14780cd29d1b2fc10.jpg",
+          "width": 1080,
+          "height": 4732
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/d3009d177fab8a97c29387a6c1f00fa6.jpg",
+          "width": 668,
+          "height": 638
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    }
+  ],
+  "time": 1585410780883
+}
