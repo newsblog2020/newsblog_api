@@ -1,0 +1,56 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/7d95304815fbf85697f145deab733224.jpg",
+          "width": 450,
+          "height": 800
+        },
+        {
+          "url": "3/d0739646a475367975922870ea04ec1f.jpg",
+          "width": 1080,
+          "height": 2160
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/96a3ec220130f9efde9215dc01c90ca9.jpg",
+          "width": 497,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "3/c54c59913f724488d029ecafd59d563f.jpg",
+          "width": 548,
+          "height": 786
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    }
+  ],
+  "time": 1585062660051
+}
