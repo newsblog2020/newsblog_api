@@ -1,0 +1,235 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/22f671be603678bc9b97d07d4896b4fb.jpg",
+          "width": 1080,
+          "height": 1932
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/859555ebba5177e3aeacbf600181df9f.jpg",
+          "width": 1080,
+          "height": 1921
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/f62c4d8c3eda546859d0447e410839dc.jpg",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/add561c144cb436d6c89be6fb21a16cf.jpg",
+          "width": 762,
+          "height": 688
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "4月4日全国哀悼"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fc455be8d397df8df8c223dc637869f3.jpg",
+          "width": 968,
+          "height": 1233
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "委内瑞拉"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/6bf33e044769fe468ca978421bc61175.jpg",
+          "width": 720,
+          "height": 1100
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "武汉"
+        },
+        {
+          "type": 3,
+          "text": "无症状感染者"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/da947857b35302cc274cd52450f39dec.jpg",
+          "width": 1080,
+          "height": 754
+        }
+      ],
+      "reference": "twitter",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/48ae49f80450185491cab6feff01540d.jpg",
+          "width": 568,
+          "height": 724
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/95c25b2cafce28ff68f33722fc1d2d6b.jpg",
+          "width": 720,
+          "height": 1162
+        }
+      ],
+      "reference": "微信朋友圈"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/420a32671a7ce8dfe5800c05b45b35f6.jpg",
+          "width": 800,
+          "height": 702
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/4fdaa5b5dfc0620e7d65dc22df87b4de.jpg",
+          "width": 720,
+          "height": 424
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/12e7de8de92b61bc53b03cc7e2b1501f.jpg",
+          "width": 720,
+          "height": 734
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fa14986b3c42f17a0a4a9ab6b1c9e659.jpg",
+          "width": 720,
+          "height": 627
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/b0031815812dd7ce47710034c960b735.jpg",
+          "width": 1080,
+          "height": 1921
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/449eeb01ff6d0aff598bf0dba81fea5f.jpg",
+          "width": 936,
+          "height": 1156
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/30d2377f58b62bfc0cb2628894441287.jpg",
+          "width": 1080,
+          "height": 2220
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "瑞幸造假"
+        }
+      ]
+    }
+  ],
+  "time": 1586014500351
+}
