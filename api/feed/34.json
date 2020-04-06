@@ -1,0 +1,295 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/1ce4a4fa51588ffaf92806b54ee356d6.png",
+          "width": 1029,
+          "height": 736
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "台湾"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/271038a7bcbd303ea6ddbb5ee8827fa6.jpg",
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "url": "4/eac8539134751e6dcc8c618790016170.jpg",
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fb19c1dcd42194a09c0755948dee128a.jpg",
+          "width": 1080,
+          "height": 1230
+        }
+      ],
+      "reference": "twitter",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/68426b46fbee3327a50537939bba505b.jpg",
+          "width": 465,
+          "height": 538
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/3f64f2ecb485c31a0aa62bfcbd40ea1a.jpg",
+          "width": 800,
+          "height": 1200
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/5cf3f4335859c9e7f9829bfe19ac2585.jpg",
+          "width": 506,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/1bcfd3fdd7868636c97644a3867134bd.jpg",
+          "width": 720,
+          "height": 987
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "印度"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/781d5a16e1dd1b6c3757759c528e50e9.jpg",
+          "width": 450,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "印度"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/59c2155d3b8c928860156c669290bef1.jpg",
+          "width": 1080,
+          "height": 2060
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 2,
+          "text": "南非"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/7319cb7d02716098629f09220516f4f8.jpg",
+          "width": 1080,
+          "height": 2280
+        }
+      ],
+      "reference": "twitter"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a3392ce8d9c0983185a9cb694f1bbc63.jpg",
+          "width": 466,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/dae56b10701f5cc93245b98068024d21.jpg",
+          "width": 1051,
+          "height": 1664
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "美国上市中概股"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/552074b4668bd22cd5a2e32c498f412c.jpg",
+          "width": 886,
+          "height": 1084
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fb4514b996d86061460f886dbb6ba081.jpg",
+          "width": 1024,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/9ccb467c4a205f9f831a9e522e36fb96.jpg",
+          "width": 1028,
+          "height": 1209
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "牡丹江"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/7070b6f63cc1b4dafb6f78511dceb6bc.jpg",
+          "width": 1124,
+          "height": 521
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "瑶台"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/f177114203886287b3c92d078fd7fd44.jpg",
+          "width": 720,
+          "height": 771
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "注意安全"
+        }
+      ]
+    }
+  ],
+  "time": 1586184900218
+}
