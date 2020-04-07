@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a75994030410a0146dc8af9868812b63.jpg",
+          "width": 1080,
+          "height": 2280
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "任志强"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/1854914f4ad267b719d5abebf4afd79e.jpg",
+          "width": 640,
+          "height": 1136
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/ca683a3b6d014dbd0147a241b89ef97c.jpg",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "url": "4/f40fa2b66e46b3a5a551aaf3a086f1ab.jpg",
+          "width": 720,
+          "height": 1440
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 2,
+          "text": "甘肃银行挤兑"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/f3a234a4f90c78c6ee1ed5dbcac65b5b.jpg",
+          "width": 1125,
+          "height": 962
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 2,
+          "text": "日本"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/524a2b21d3f81b2b47a98754674dd327.jpg",
+          "width": 592,
+          "height": 363
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 2,
+          "text": "英国"
+        },
+        {
+          "type": 3,
+          "text": "英国首项"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/04490daafd5816777c2f143d1c54a60e.jpg",
+          "width": 708,
+          "height": 335
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/35c9194d6047a11bda16a31bb4adde17.jpg",
+          "width": 750,
+          "height": 1334
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "武汉"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/b8b5763e2524b8185beab59daf9af714.jpg",
+          "width": 720,
+          "height": 781
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/2bdbe8a0793df73b3e9b4dc6620aa460.jpg",
+          "width": 800,
+          "height": 488
+        }
+      ],
+      "reference": "微博"
+    }
+  ],
+  "time": 1586274900237
+}
