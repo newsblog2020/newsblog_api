@@ -1,0 +1,101 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/182192e2536e0430966329daa2943467.jpg",
+          "width": 720,
+          "height": 619
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/f527314a50aaec160932ad1cfabb05bb.png",
+          "width": 655,
+          "height": 651
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "新冠病毒"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/b7414560842d716a02fabd89f5914d54.jpg",
+          "width": 1080,
+          "height": 1920
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 2,
+          "text": "俄罗斯"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/e6cbcacc42f8d161991626eff11419da.jpg",
+          "width": 400,
+          "height": 800
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/7a5acb17e176c7bc004bc790c4b38884.jpg",
+          "width": 640,
+          "height": 1082
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/388ea819fed7081bfc62346d78a81482.jpg",
+          "width": 1080,
+          "height": 2341
+        },
+        {
+          "url": "4/bc270b54188098ee1ce1d0f4c68d2e7f.jpg",
+          "width": 1080,
+          "height": 2341
+        }
+      ],
+      "reference": "twitter"
+    }
+  ],
+  "time": 1586361120152
+}
