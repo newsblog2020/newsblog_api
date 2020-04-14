@@ -1,0 +1,336 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/08d5e660dc76f5ab6b7c655d8a5a4c79.jpg",
+          "width": 719,
+          "height": 800
+        },
+        {
+          "url": "4/150b305243d62f0a6251b5014b2b9c34.jpg",
+          "width": 720,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/4710244925b9418a593992322ffaae3b.jpg",
+          "width": 758,
+          "height": 799
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "法国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fe398138f3794723815c9becf6e6c566.jpg",
+          "width": 800,
+          "height": 663
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "世界卫生组织"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/c9eb6b7f89e4264530c436359f55c4e6.jpg",
+          "width": 800,
+          "height": 736
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "逃离俄罗斯"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/b0fc50712ebb8151e117d9c46aca82b7.jpg",
+          "width": 800,
+          "height": 676
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "朝鲜"
+        },
+        {
+          "type": 3,
+          "text": "试射导弹"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/47399c5547fb630bba9f7e8b862aae4c.jpg",
+          "width": 800,
+          "height": 569
+        },
+        {
+          "url": "4/99e8087c5f1ea809f2652176d2b568bb.jpg",
+          "width": 800,
+          "height": 590
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "日本"
+        },
+        {
+          "type": 3,
+          "text": "北海道开天猫店"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/d1ee7b737a0b908b322df5f5c962b382.jpg",
+          "width": 605,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "阿里巴巴GMV数据"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/231efaf39cd4e20456dbf9e133e3847c.jpg",
+          "width": 793,
+          "height": 800
+        },
+        {
+          "url": "4/f337adb683a50a699e7f33a556ef493c.jpg",
+          "width": 787,
+          "height": 800
+        },
+        {
+          "url": "4/908a262bda13cb0603d3176da92a52e8.jpg",
+          "width": 782,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "辽宁"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/3944dfbf2c6f67ccfef99e1aada0063b.jpg",
+          "width": 548,
+          "height": 1024
+        },
+        {
+          "url": "4/23bb4fa5ee784b03d7ea127892b0a791.jpg",
+          "width": 960,
+          "height": 616
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "泰国"
+        },
+        {
+          "type": 2,
+          "text": "假测温枪"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/1cb21a62a7a25d28129d0a2f7615806e.jpg",
+          "width": 536,
+          "height": 800
+        }
+      ],
+      "reference": "twitter"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a7543c4a892cf7515615b470c37f48c3.jpg",
+          "width": 731,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/cfe9229f8bfddcbbb764ceb468e78414.jpg",
+          "width": 800,
+          "height": 551
+        }
+      ],
+      "reference": "微信朋友圈",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/1fc0e7c33f3bf0ad064c64bb13e91c59.jpg",
+          "width": 1070,
+          "height": 1040
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/4b49ec4be0571b66ac7ce65b6d0b8b11.jpg",
+          "width": 750,
+          "height": 498
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/572a4b576bc90f2f6d9991b474dae656.jpg",
+          "width": 650,
+          "height": 266
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a297a5636f10df4a6504215921bcbb8a.jpg",
+          "width": 511,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 3,
+          "text": "新冠病毒"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/74f1445fb4e4d6ba3b844b29c34f89c4.jpg",
+          "width": 600,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/e284c6d904754f25ffaca03c1eef4cb0.jpg",
+          "width": 960,
+          "height": 960
+        },
+        {
+          "url": "4/4bb2be7d4398652dbfab6777af4fc04a.jpg",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "华为手机"
+        }
+      ]
+    }
+  ],
+  "time": 1586877720378
+}
