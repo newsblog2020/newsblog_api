@@ -1,0 +1,265 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "4/56ae38bbc984fad7a82f7837b86fb23f.jpg",
+          "width": 800,
+          "height": 650
+        },
+        {
+          "url": "4/62cd99fed77fee4bb69567df939136f8.jpg",
+          "width": 800,
+          "height": 602
+        },
+        {
+          "url": "4/fa758f9a135bbc8b742e32f8131c2076.jpg",
+          "width": 800,
+          "height": 347
+        },
+        {
+          "url": "4/e827b34c567b5579cc42e82871efc7ed.jpg",
+          "width": 800,
+          "height": 750
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "法国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "4/5db2f5a22b7de9bd97d0ed63f2fd5306.jpg",
+          "width": 670,
+          "height": 800
+        },
+        {
+          "url": "4/3c5733089d3f3fd54d37f6e8f8840c54.jpg",
+          "width": 640,
+          "height": 602
+        },
+        {
+          "url": "4/fec7c1a1482ebc4dbde9e48192a4074b.jpg",
+          "width": 640,
+          "height": 293
+        },
+        {
+          "url": "4/e83296623188c57915607ab4acfad262.jpg",
+          "width": 601,
+          "height": 800
+        },
+        {
+          "url": "4/51574e984d88f48bbcf728f310cfa766.jpg",
+          "width": 640,
+          "height": 565
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/ae72e617f07d1d1d5b5077e4663c2622.png",
+          "width": 1181,
+          "height": 1052
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/38c396cf9624a33279767287d2969962.jpg",
+          "width": 800,
+          "height": 705
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/6be724183b392b01e89da39e4282f9c7.jpg",
+          "width": 800,
+          "height": 660
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "日本"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/747ac0f4941aadb1be335339c96470a9.jpg",
+          "width": 722,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/0d7679a563e586e9cca11344724f125c.jpg",
+          "width": 542,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "世界卫生组织"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/37e6f47f6637f86fe975108cf88b4d1c.jpg",
+          "width": 800,
+          "height": 607
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "世界卫生组织"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a69ca173f1ddc199780f095ac8230390.jpg",
+          "width": 800,
+          "height": 645
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/c821fd47a8bb8fb0f864a32f8a6bcbb3.jpg",
+          "width": 800,
+          "height": 735
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "天津"
+        },
+        {
+          "type": 3,
+          "text": "影城倒闭"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/5a35702b0b567c7095345e73eb33f5e0.jpg",
+          "width": 639,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/cb41ff1ba8ac37829625689da1ba4ad1.jpg",
+          "width": 1058,
+          "height": 926
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a191df41185dacadddc8da8e92d3e951.jpg",
+          "width": 800,
+          "height": 624
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/6a4e48b482d27ddb48915379e7fa6c06.jpg",
+          "width": 720,
+          "height": 800
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "非法集资诈骗"
+        }
+      ]
+    }
+  ],
+  "time": 1587046920771
+}
