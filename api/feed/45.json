@@ -1,0 +1,259 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/18c261c32e1b4c8c8ae32219bf445c3d.jpg",
+          "width": 1080,
+          "height": 2212
+        }
+      ],
+      "reference": "微信",
+      "label": [
+        {
+          "type": 3,
+          "text": "中行原油宝"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/bb3fd6e1c75fcc4143f51f4b913f681f.jpg",
+          "width": 531,
+          "height": 800
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "中行原油宝"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 3,
+      "photoList": [
+        {
+          "url": "4/b5804c5c5119f166dcb2def59f61add9.jpg",
+          "width": 1080,
+          "height": 11395
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "中行原油宝"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fa8b07af596357c766a9a0e47b5fee7d.jpg",
+          "width": 720,
+          "height": 540
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/8eeaaa27ccead4e9fd3ade8ad478f452.jpg",
+          "width": 750,
+          "height": 634
+        }
+      ],
+      "reference": "微信朋友圈",
+      "label": [
+        {
+          "type": 3,
+          "text": "世界卫生组织"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/9bcb2171853db73e6c40f235c1e5e92e.jpg",
+          "width": 1080,
+          "height": 9398
+        }
+      ],
+      "reference": "微信",
+      "label": [
+        {
+          "type": 3,
+          "text": "新冠病毒"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/b148145228c9b9ef8f56ba2170906fa6.jpg",
+          "width": 700,
+          "height": 190
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/87947f0d971c6a82e5d63fcbb5c45550.jpg",
+          "width": 435,
+          "height": 600
+        },
+        {
+          "url": "4/b6a517196d9ee4094364b4179cbdb434.jpg",
+          "width": 690,
+          "height": 1227
+        },
+        {
+          "url": "4/afa66dde0a6846f215f650bfce33d498.jpg",
+          "width": 450,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/e7118921e6de2573be30f712f288cf77.jpg",
+          "width": 868,
+          "height": 1336
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/3f150b9c6d57570ca761724377b52b17.jpg",
+          "width": 450,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/6b0186bb91a129ecb369647fdab6f97b.jpg",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "reference": "twitter",
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        },
+        {
+          "type": 3,
+          "text": "方方日记"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/dac667f6190733dac195990aa7cdb9d0.jpg",
+          "width": 611,
+          "height": 800
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "公务员降薪"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/b5d57d8cb3221ea5bb4363a34b243bf3.jpg",
+          "width": 1080,
+          "height": 2336
+        },
+        {
+          "url": "4/ad48a737b3e9255091a4b28a817d0d70.jpg",
+          "width": 1080,
+          "height": 2336
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/fa807c642f6972c3b15df93dc28f8bf3.jpg",
+          "width": 454,
+          "height": 800
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/a1b94e39b2bcceff0a6558f4c1919846.jpg",
+          "width": 640,
+          "height": 848
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    }
+  ],
+  "time": 1587914520370
+}
