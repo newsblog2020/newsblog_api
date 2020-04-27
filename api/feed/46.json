@@ -1,0 +1,211 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/27d34840c30c4fcce4730c2f5e225710.jpg",
+          "width": 640,
+          "height": 904
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        },
+        {
+          "type": 2,
+          "text": "朝鲜"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/4e7ddca76b3fd376db093ca9de26d861.jpg",
+          "width": 1029,
+          "height": 360
+        }
+      ],
+      "label": [
+        {
+          "type": 0,
+          "text": "可能是谣言"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/9c948f04cff4c4b139567dd669b4512b.jpg",
+          "width": 1080,
+          "height": 744
+        }
+      ],
+      "reference": "微博"
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/eba97898ad6f61a732c2c246f020e683.jpg",
+          "width": 254,
+          "height": 800
+        }
+      ],
+      "reference": "微博",
+      "label": [
+        {
+          "type": 2,
+          "text": "韩国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/058fa0059c7cbde0cd681e14fa150a6c.jpg",
+          "width": 800,
+          "height": 496
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "德国"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/cae073f5249ab0f2a6367d739011e257.jpg",
+          "width": 828,
+          "height": 1186
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "巴新"
+        },
+        {
+          "type": 3,
+          "text": "收归国有"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/1ba8bdc83e634c4481b680088d4adcb5.jpg",
+          "width": 724,
+          "height": 685
+        }
+      ],
+      "label": [
+        {
+          "type": 2,
+          "text": "美国"
+        },
+        {
+          "type": 3,
+          "text": "禁止凤凰卫视"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/8ab3b386192077dfd1514af4cd7a6ae9.jpg",
+          "width": 345,
+          "height": 512
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "娱乐段子"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/c60a90c7ad9f11935f1afece185bb3d6.jpg",
+          "width": 794,
+          "height": 348
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/61b32c642e03dcba9a72706fcea691de.jpg",
+          "width": 631,
+          "height": 800
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/84556c475da9f4b3d817650e28a19d54.jpg",
+          "width": 828,
+          "height": 568
+        }
+      ],
+      "label": [
+        {
+          "type": 3,
+          "text": "中行原油宝"
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/407b346bcee52de783d5383f3bbed531.jpg",
+          "width": 800,
+          "height": 574
+        }
+      ]
+    },
+    {
+      "tabId": 0,
+      "type": 1,
+      "photoList": [
+        {
+          "url": "4/98a15267f4c2ee7fe61d1545a04a8169.jpg",
+          "width": 1080,
+          "height": 1456
+        }
+      ]
+    }
+  ],
+  "time": 1587997320919
+}
